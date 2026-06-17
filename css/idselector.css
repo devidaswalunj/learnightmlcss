@@ -1,0 +1,20 @@
+#head1{
+    color: green;
+    text-align: center;
+}
+#head2{
+    color: magenta;
+}
+#head3{
+    color: violet;
+}
+/* id have more priority than class */
+.h8{
+    color: yellow;
+}
+#h9{
+    color: blue;
+}
+h2{
+    text-align: center;
+}

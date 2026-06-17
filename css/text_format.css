@@ -1,0 +1,45 @@
+h4{
+    font-size: 40px;
+}
+/* text transform */
+.uppercase{
+    text-transform: uppercase;
+}
+.lowercase{
+    text-transform: lowercase;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+/* text alignment */
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.decoration1{
+    text-decoration: overline;
+}
+.decoration2
+{
+    text-decoration: line-through;
+}
+.decoration3{
+    text-decoration: underline;
+}
+.decoration4{
+    text-decoration: line-through;
+}
+/*text indent use for space*/
+.indent{
+    text-indent: 60px;
+}
+/*letter spacing*/
+.lspacing{
+    letter-spacing: 40px;
+}
+/* word spacing */
+.wspacing{
+    word-spacing: 40px;
+}
