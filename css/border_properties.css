@@ -1,0 +1,29 @@
+/*.dropshadow1{
+    border: 25px solid red;
+}
+.dropshadow2
+{
+    border: 15px dotted palevioletred;
+}
+.dropshadow3{
+    border:15px dashed yellow;
+}
+.dropshadow4{
+    border: 15px double green;
+
+}
+.dropshadow5{
+    border: 15px inset blue;
+}
+.dropshadow6{
+    border: 15px outset black;
+}
+.dropshadow7{
+    border: 15px groove saddlebrown;
+}*/
+.border_po{
+    border: 20px solid red;
+      border: 20px solid ;
+                        border-radius: 75%;
+                        border-top-color: rgb(214, 22, 22);
+}
