@@ -1,0 +1,20 @@
+.flex-item{
+    width: 150px;
+    height: 100px;
+    background-color: rgb(84, 152, 207);
+    border: 10px solid #1f1a1b;
+    border-radius: 25px;
+    margin: 20px;
+    padding: 20px;
+    list-style: none;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
